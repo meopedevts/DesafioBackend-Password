@@ -13,4 +13,12 @@ O desafio propõe a construção de uma API web que irá receber uma requisiçã
 
 ## Exemplo de Requisição:
 
-- Rota "/validate-password"
+### Rota "/validate-password"
+
+- HTTP Status 204 - No Content
+
+![no_content-post](https://res.cloudinary.com/dtu1wwbk6/image/upload/v1698791619/readme%20aleatorio/jog6fsgzitzkpf7wc2tu.png)
+
+- HTTP Status 400 - Bad Request
+
+![bad_request-post](https://res.cloudinary.com/dtu1wwbk6/image/upload/v1698791619/readme%20aleatorio/kvk6gxgdogs7oyupoaxm.png)
